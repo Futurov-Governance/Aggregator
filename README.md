@@ -1,3 +1,3 @@
 # Aggregator
 The beta app
-Malik
+Published by Malik
